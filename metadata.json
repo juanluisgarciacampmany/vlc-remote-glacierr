@@ -1,0 +1,6 @@
+{
+  "name": "PC Remote",
+  "description": "Control de VLC, explorador de archivos, comandos de sistema y monitoreo de CPU/RAM para tu PC desde Android con interfaz Glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
